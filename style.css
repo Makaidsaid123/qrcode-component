@@ -23,4 +23,5 @@ img {
 p {
   margin-bottom: 2em;
   color: hsl(212, 14%, 59%);
+  font-size: 15px;
 }
