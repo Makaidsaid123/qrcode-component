@@ -19,6 +19,9 @@ img {
   height: 300px;
   border-radius: 10px;
 }
+h1 {
+  font-size: larger;
+}
 
 p {
   margin-bottom: 2em;
